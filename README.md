@@ -1,1 +1,1 @@
-# learn
+# finding root of a equation 
